@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Infogempa>
+    <gempa>
+        <Tanggal>12 Nov 2021</Tanggal>
+        <Jam>17:44:18 WIB</Jam>
+        <DateTime>2021-11-12T10:44:18+00:00</DateTime>
+        <point>
+            <coordinates>1.32,98.84</coordinates>
+        </point>
+        <Lintang>1.32 LU</Lintang>
+        <Bujur>98.84 BT</Bujur>
+        <Magnitude>5.1</Magnitude>
+        <Kedalaman>65 km</Kedalaman>
+        <Wilayah>41 km Tenggara TAPANULITENGAH-SUMUT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>11 Nov 2021</Tanggal>
+        <Jam>00:46:41 WIB</Jam>
+        <DateTime>2021-11-10T17:46:41+00:00</DateTime>
+        <point>
+            <coordinates>-4.29,134.21</coordinates>
+        </point>
+        <Lintang>4.29 LS</Lintang>
+        <Bujur>134.21 BT</Bujur>
+        <Magnitude>6.1</Magnitude>
+        <Kedalaman>14 km</Kedalaman>
+        <Wilayah>115 km Tenggara KAIMANA-PAPUABRT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>10 Nov 2021</Tanggal>
+        <Jam>09:50:09 WIB</Jam>
+        <DateTime>2021-11-10T02:50:09+00:00</DateTime>
+        <point>
+            <coordinates>-7.60,105.86</coordinates>
+        </point>
+        <Lintang>7.60 LS</Lintang>
+        <Bujur>105.86 BT</Bujur>
+        <Magnitude>5.0</Magnitude>
+        <Kedalaman>10 km</Kedalaman>
+        <Wilayah>85 km BaratDaya MUARABINUANGEUN-BANTEN</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>08 Nov 2021</Tanggal>
+        <Jam>12:05:59 WIB</Jam>
+        <DateTime>2021-11-08T05:05:59+00:00</DateTime>
+        <point>
+            <coordinates>-0.79,123.55</coordinates>
+        </point>
+        <Lintang>0.79 LS</Lintang>
+        <Bujur>123.55 BT</Bujur>
+        <Magnitude>5.3</Magnitude>
+        <Kedalaman>11 km</Kedalaman>
+        <Wilayah>81 km TimurLaut BANGGAIKEP-SULTENG</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>06 Nov 2021</Tanggal>
+        <Jam>21:37:37 WIB</Jam>
+        <DateTime>2021-11-06T14:37:37+00:00</DateTime>
+        <point>
+            <coordinates>-0.16,124.35</coordinates>
+        </point>
+        <Lintang>0.16 LS</Lintang>
+        <Bujur>124.35 BT</Bujur>
+        <Magnitude>6.2</Magnitude>
+        <Kedalaman>20 km</Kedalaman>
+        <Wilayah>71 km Tenggara BOLAANGUKI-BOLSEL-SULUT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>06 Nov 2021</Tanggal>
+        <Jam>10:56:19 WIB</Jam>
+        <DateTime>2021-11-06T03:56:19+00:00</DateTime>
+        <point>
+            <coordinates>-1.36,120.48</coordinates>
+        </point>
+        <Lintang>1.36 LS</Lintang>
+        <Bujur>120.48 BT</Bujur>
+        <Magnitude>5.4</Magnitude>
+        <Kedalaman>10 km</Kedalaman>
+        <Wilayah>30 km BaratLaut POSO-SULTENG</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>04 Nov 2021</Tanggal>
+        <Jam>09:42:44 WIB</Jam>
+        <DateTime>2021-11-04T02:42:44+00:00</DateTime>
+        <point>
+            <coordinates>-2.81,129.34</coordinates>
+        </point>
+        <Lintang>2.81 LS</Lintang>
+        <Bujur>129.34 BT</Bujur>
+        <Magnitude>5.9</Magnitude>
+        <Kedalaman>10 km</Kedalaman>
+        <Wilayah>69 km TimurLaut MALUKUTENGAH</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>03 Nov 2021</Tanggal>
+        <Jam>21:11:29 WIB</Jam>
+        <DateTime>2021-11-03T14:11:29+00:00</DateTime>
+        <point>
+            <coordinates>-0.38,124.02</coordinates>
+        </point>
+        <Lintang>0.38 LS</Lintang>
+        <Bujur>124.02 BT</Bujur>
+        <Magnitude>5.3</Magnitude>
+        <Kedalaman>42 km</Kedalaman>
+        <Wilayah>84 km Tenggara BOLAANGUKI-BOLSEL-SULUT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>03 Nov 2021</Tanggal>
+        <Jam>07:50:36 WIB</Jam>
+        <DateTime>2021-11-03T00:50:36+00:00</DateTime>
+        <point>
+            <coordinates>0.92,98.49</coordinates>
+        </point>
+        <Lintang>0.92 LU</Lintang>
+        <Bujur>98.49 BT</Bujur>
+        <Magnitude>5.4</Magnitude>
+        <Kedalaman>63 km</Kedalaman>
+        <Wilayah>84 km TimurLaut NIASSELATAN-SUMUT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>02 Nov 2021</Tanggal>
+        <Jam>23:43:53 WIB</Jam>
+        <DateTime>2021-11-02T16:43:53+00:00</DateTime>
+        <point>
+            <coordinates>-6.93,130.63</coordinates>
+        </point>
+        <Lintang>6.93 LS</Lintang>
+        <Bujur>130.63 BT</Bujur>
+        <Magnitude>6.1</Magnitude>
+        <Kedalaman>123 km</Kedalaman>
+        <Wilayah>137 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>02 Nov 2021</Tanggal>
+        <Jam>20:39:13 WIB</Jam>
+        <DateTime>2021-11-02T13:39:13+00:00</DateTime>
+        <point>
+            <coordinates>0.18,96.50</coordinates>
+        </point>
+        <Lintang>0.18 LU</Lintang>
+        <Bujur>96.50 BT</Bujur>
+        <Magnitude>5.0</Magnitude>
+        <Kedalaman>10 km</Kedalaman>
+        <Wilayah>138 km BaratDaya NIASBARAT-SUMUT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>02 Nov 2021</Tanggal>
+        <Jam>00:04:16 WIB</Jam>
+        <DateTime>2021-11-01T17:04:16+00:00</DateTime>
+        <point>
+            <coordinates>0.19,96.58</coordinates>
+        </point>
+        <Lintang>0.19 LU</Lintang>
+        <Bujur>96.58 BT</Bujur>
+        <Magnitude>6.2</Magnitude>
+        <Kedalaman>16 km</Kedalaman>
+        <Wilayah>130 km BaratDaya NIASBARAT-SUMUT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>30 Okt 2021</Tanggal>
+        <Jam>18:11:43 WIB</Jam>
+        <DateTime>2021-10-30T11:11:43+00:00</DateTime>
+        <point>
+            <coordinates>-7.59,125.42</coordinates>
+        </point>
+        <Lintang>7.59 LS</Lintang>
+        <Bujur>125.42 BT</Bujur>
+        <Magnitude>5.5</Magnitude>
+        <Kedalaman>10 km</Kedalaman>
+        <Wilayah>124 km TimurLaut ALOR-NTT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>29 Okt 2021</Tanggal>
+        <Jam>11:33:33 WIB</Jam>
+        <DateTime>2021-10-29T04:33:33+00:00</DateTime>
+        <point>
+            <coordinates>5.18,125.74</coordinates>
+        </point>
+        <Lintang>5.18 LU</Lintang>
+        <Bujur>125.74 BT</Bujur>
+        <Magnitude>5.3</Magnitude>
+        <Kedalaman>169 km</Kedalaman>
+        <Wilayah>167 km BaratLaut MELONGUANE-SULUT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+    <gempa>
+        <Tanggal>26 Okt 2021</Tanggal>
+        <Jam>16:46:08 WIB</Jam>
+        <DateTime>2021-10-26T09:46:08+00:00</DateTime>
+        <point>
+            <coordinates>1.51,127.01</coordinates>
+        </point>
+        <Lintang>1.51 LU</Lintang>
+        <Bujur>127.01 BT</Bujur>
+        <Magnitude>5.1</Magnitude>
+        <Kedalaman>92 km</Kedalaman>
+        <Wilayah>67 km BaratLaut HALMAHERABARAT-MALUT</Wilayah>
+        <Potensi>Tidak berpotensi tsunami</Potensi>
+    </gempa>
+</Infogempa>

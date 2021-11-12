@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/PPB/PPB A/XML-Parser-PPB-A/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/PPB/PPB A/XML-Parser-PPB-A/app/src/main/res/drawable/gempa.xml" value="0.21770833333333334" />
+        <entry key="..\:/PPB/PPB A/XML-Parser-PPB-A/app/src/main/res/drawable/gempaterkini.xml" value="0.22135416666666666" />
+        <entry key="..\:/PPB/PPB A/XML-Parser-PPB-A/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/PPB/PPB A/XML-Parser-PPB-A/app/src/main/res/xml/file.xml" value="0.246875" />
       </map>
     </option>
   </component>
